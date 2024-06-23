@@ -13,14 +13,22 @@ nav_order: 2
 1. TOC
 {:toc}
 
-Copy and Paste this shit into a new forum post within this thread using this has a subject line:
+## Forum Location
+
+Create a new forum post within this forum thread ( https://forum.chaos.church/viewforum.php?f=25 ) for every new cultist
+
+Use this has a subject line:
 
 [CULTIST NAME] : [CORRUPTOR NAME] : [COMPLETED/IN PROGRESS]
 
-# Keep your trackers updated so we know what the cultists has/hasn't completed.
-Cultist Name:
-Corruptor Name:
-Training Start Date:
+Keep your trackers updated so we know what the cultists has/hasn't completed.
+Copy and paste starting below
+
+---------------------------------------
+
+- Cultist Name:
+- Corruptor Name:
+- Training Start Date:
 
 
 ## PHASE 1
